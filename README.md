@@ -1,8 +1,20 @@
 # Welcome to my profile!
-## My name is James, and I am...
-- 👨🏻‍🎓 a student studying Computer Science (BSc), specialising in Artificial Intelligence.
-- 👨🏻‍💻 proficient in python, html, css, and MySQL.
-- 👌 okay at C#, C and a little bit of JavaScript.
-- 📬 always open to suggestions and help. 
 
+## 🙋🏻‍♂️About Me
+* Studying Computer Science at the University of the West of England.
+* I enjoy solving complex problems and approaching them in new and interesting ways.
+* In my free time, I like to:
+  * Fly gliders ✈️
+  * Do film photography 🎞️
+  * Listen to records 💿
+  * Watch Formula One 🏎️
+
+## 🧰 Skills
+* **Languages**: Python, HTML, CSS, JavaScript (a bit), C, and C#.
+* **Frameworks**: Flask.
+* **Databases**: MySQL.
+* **Other**: Arduino.
+
+## ✋ Connect With Me
+* [LinkedIn](https://www.linkedin.com/in/james-jewsbury/)
 
