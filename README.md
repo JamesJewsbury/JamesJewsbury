@@ -9,6 +9,9 @@
   * Listen to records 💿
   * Watch Formula One 🏎️
 
+## 👷🏻‍♂️ In the Works
+- [🦅🐟 Boids with PyGame](https://github.com/JamesJewsbury/Boids-With-PyGame)
+
 ## 🧰 Skills
 * **Languages**: Python, HTML, CSS, JavaScript (a bit), C, and C#.
 * **Frameworks**: Flask.
